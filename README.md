@@ -1,2 +1,11 @@
 # MySelfProject
-this project will  improve me to be a big god 
+public static void main(System args[]){
+String str = "asdfgh";
+StringBuffer sb = new StringBuffer();
+for(int i = 0;i<str.legth;i++){
+     sb.append(str[i]);
+}
+System.out.println(sb);
+
+
+}
